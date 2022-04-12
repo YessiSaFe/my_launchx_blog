@@ -14,3 +14,6 @@ Para mi la cultura de un profesional del software se basa en lo siguiente:
 -Perseverancia    <br>
 -Honestidad     <br>
 -Tolerancia     <br>
+
+
+Esto es lo más importante para mi. 
