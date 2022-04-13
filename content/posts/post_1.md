@@ -1,7 +1,11 @@
 ---
 title: "Mi ruta de aprendizaje en Lauch X"
-date: 2022-03-01
+date: 2022-04-12
 description: 'Te contaré sobre mi travesía en Lauch-X de Innovación Virtual'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
+¡Hola!
+
+Quisiera compartir lo que aprendido durante mi tiempo en Launch-X hasta ahora, es lo siguuiente: 
+
+-
