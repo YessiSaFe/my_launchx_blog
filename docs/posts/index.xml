@@ -9,6 +9,16 @@
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yessisafe.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi ruta de aprendizaje en Lauch-X</title>
+      <link>https://yessisafe.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yessisafe.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Lo que he aprendido sobre Git y GitHub Quisiera compartir un poco de lo que he aprendido sobre git y github, al principio pensé que eran lo mismo, debido a que no tenía conocimientos relacionados a la programación. Conforme pasaba el curso comencé a aprender más sobre git y github, me di cuenta poco a poco de que no son lo mismo.
+Git es un control de versiones utilizado por programadores para guardar los cambios realizados en sus proyectos, estos cambios son guardados de forma local en el equipo.</description>
+    </item>
+    
+    <item>
+      <title>Mi ruta de aprendizaje en Lauch-X</title>
       <link>https://yessisafe.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
