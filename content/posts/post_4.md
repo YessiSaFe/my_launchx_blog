@@ -6,4 +6,4 @@ description: 'Te contaré sobre mi experiencia en Launch-X de Innovación Virtua
 
 # Mi experiencia en Launch-x
 
-
+Durante mi tiempo en Launch-X he aprendido muchas cosas, ha habido buenas y malas experiencias durante los cursos importidos. 
