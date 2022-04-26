@@ -1,7 +1,7 @@
 ---
-title: "Mi ruta de aprendizaje en Lauch-X"
+title: "Mi ruta de aprendizaje en Launch-X"
 date: 2022-04-12
-description: 'Te contaré sobre mi travesía en Lauch-X de Innovación Virtual'
+description: 'Te contaré sobre mi travesía en Launch-X de Innovación Virtual'
 ---
 
 ¡Hola!
