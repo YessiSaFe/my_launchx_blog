@@ -1,7 +1,7 @@
 ---
-title: "Mi ruta de aprendizaje en Lauch-X"
+title: "Mi ruta de aprendizaje en Launch-X"
 date: 2022-04-25
-description: 'Te contaré sobre lo que he aprendido en Lauch-X de Innovación Virtual'
+description: 'Te contaré sobre lo que he aprendido en Launch-X de Innovación Virtual'
 ---
 
 # Github Pages
